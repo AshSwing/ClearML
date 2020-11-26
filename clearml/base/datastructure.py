@@ -1,0 +1,2 @@
+class Datastructure(object):
+    pass
